@@ -4,8 +4,8 @@
 
 A modern and user-friendly registration form designed with soft and pastel tones. The form follows modern web standards with a responsive and accessible design.
 
-![Form Preview]
-![2](https://github.com/user-attachments/assets/10ebbaf3-10bb-4e35-8418-cba1cab5fbf0)
+
+(https://github.com/user-attachments/assets/10ebbaf3-10bb-4e35-8418-cba1cab5fbf0)
 
 ## 🌟 Features
 
