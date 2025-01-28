@@ -1,11 +1,12 @@
-# Modern  Registration Form
+# Modern Pastel Registration Form
 
 [English](README_EN.md) | [Türkçe](README.md)
 
 A modern and user-friendly registration form designed with soft and pastel tones. The form follows modern web standards with a responsive and accessible design.
 
 
-(https://github.com/user-attachments/assets/10ebbaf3-10bb-4e35-8418-cba1cab5fbf0)
+![2](https://github.com/user-attachments/assets/fb13df0a-9c19-4a4c-a049-ba19797a2495)
+
 
 ## 🌟 Features
 
